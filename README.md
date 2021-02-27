@@ -6,7 +6,7 @@
 Hi,
 I'm Danilo Ferreira Alves, bachelor in Computer Science, passionate about technology, focusing on the front end. My goal is to become a frontend expert.
 
-- 🔭 I am currently working at the CPQI Group allocated BTG Bank
+- 🔭 I am currently working at the CPQI Group allocated BTG Bank as Frontend developer
 - 🌱 I’m currently learning unit tests with jasmine and karma
 
 
